@@ -13,9 +13,9 @@
     <title>:: Hermes Pardini ::</title>
     
     <script>
-        // $(document).ready(function() {
-        //     $('#table').DataTable();
-        // });
+        $(document).ready(function() {
+            $('#table').DataTable();
+        });
  </script>
 </head>
 <body>
